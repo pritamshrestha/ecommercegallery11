@@ -1,0 +1,94 @@
+#suchana{font-size:70px;}
+.nepal{font-size:60px;
+       color:red;
+       text-align:center
+ }
+.palpa{font-size:40px;
+        color:purple;
+        text-align:center;}
+
+.kathmandu{font-size:40px;
+        color:green;
+        text-align:center;}
+.pokhera{font-size:40px;
+        color:blue;
+        text-align:center;}
+.tanahun{font-size:40px;
+        color:red;
+        text-align:center;}
+
+
+/*this is for the media query*/
+@media(max-width: 400px){
+	#suchana{font-size:25px;
+	         }
+}
+@media(max-width: 400px){
+	.nepal{font-size:20px;
+	         color:green;
+	         text-align:center;}
+}
+@media(max-width:400px){
+.palpa{font-size:20px;
+        color:purple;
+        text-align:center;}
+
+
+}
+@media(max-width:400px){
+	.kathmandu{font-size:20px;
+        color:green;
+        text-align:center;}
+
+}
+@media(max-width:400px){
+	.pokhera{font-size:20px;
+        color:blue;
+        text-align:center;}
+	
+}
+
+@media(max-width:400px){
+	.tanahun{font-size:20px;
+        color:red;
+        text-align:center;}
+	
+}
+/*this is for the i pad*/
+@media(max-width: 770px){
+	#suchana{font-size:30px;
+	         }
+}
+@media(max-width: 770px){
+	.nepal{font-size:25px;
+	         color:green;
+	         text-align:center;}
+}
+@media(max-width:770px){
+.palpa{font-size:25px;
+        color:purple;
+        text-align:center;}
+
+
+}
+@media(max-width:770px){
+	.kathmandu{font-size:25px;
+        color:green;
+        text-align:center;}
+
+}
+@media(max-width:770px){
+	.pokhera{font-size:25px;
+        color:blue;
+        text-align:center;}
+	
+}
+
+@media(max-width:770px){
+	.tanahun{font-size:25px;
+        color:red;
+        text-align:center;}
+	
+}
+
+
